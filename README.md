@@ -4,3 +4,4 @@ Initial implementation of an ARTIC bioinformatics platform for nanopore sequenci
 
 https://www.protocols.io/view/long-reads-nanopore-sequencing-to-recover-sars-cov-bfy7jpzn
 
+https://www.biorxiv.org/content/10.1101/2020.04.30.069039v1.full.pdf
