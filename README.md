@@ -1,3 +1,5 @@
+Repository is deprecated! Please use https://github.com/phac-nml/primer-schemes 
+
 # artic-ncov2019
 
 Initial implementation of an ARTIC bioinformatics platform for nanopore sequencing of nCoV2019 novel coronavirus using long 2kb amplicon. 
